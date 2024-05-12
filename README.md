@@ -1,4 +1,4 @@
-# Bank-Load-Data-Analysis-Excel
+# Bank-Loan-Data-Analysis-Excel
 
 ## Purpose
 To monitor and assess our bank's lending activities and performance, we have created a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time, enabling data-driven decisions and informed lending strategies.
