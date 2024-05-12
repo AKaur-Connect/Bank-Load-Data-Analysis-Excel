@@ -4,6 +4,9 @@
 To monitor and assess our bank's lending activities and performance, we have created a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time, enabling data-driven decisions and informed lending strategies.
 
 ## Dashboard 1: Summary
+
+![Summary Dashboard Snapshot](https://github.com/AKaur-Connect/Bank-Loan-Data-Analysis-Excel/blob/main/Summary%20Dashboard.png)
+
 ### Key Performance Indicators (KPIs) Requirements:
 #### Total Loan Applications
 - Total Funded Amount
@@ -28,8 +31,8 @@ To monitor and assess our bank's lending activities and performance, we have cre
 A grid view report categorized by 'Loan Status' to monitor loan performance and key indicators.
 
 ## Dashboard 2: Overview
+![Overview Dashboard Snapshot](https://github.com/AKaur-Connect/Bank-Loan-Data-Analysis-Excel/blob/main/Overview%20Dashboard.png)
 Visual representation of critical loan-related metrics and trends using various chart types:
-
 - Monthly Trends by Issue Date (Line Chart)
 - Regional Analysis by State (Filled Map)
 - Loan Term Analysis (Donut Chart)
